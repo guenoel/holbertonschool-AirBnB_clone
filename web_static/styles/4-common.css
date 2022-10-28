@@ -10,7 +10,10 @@ body {
     max-width: 1000px;
     margin-top: 30px;
     margin-bottom: 30px;
-    margin-left: 10%;
+    align-items: center; /* marche pas */
+    /*display: flex; /* inutile */
+    /*align-items: center; /* inutile */
+    /*justify-content: center; /* inutile */
 }
 
 button {
