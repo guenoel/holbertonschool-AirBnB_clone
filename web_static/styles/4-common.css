@@ -9,6 +9,7 @@ body {
 .container {
     max-width: 1000px;
     margin: 30px auto 30px auto;
+    position: relative
 }
 
 button {
@@ -19,6 +20,8 @@ button {
     width: 20%;
     border: none;
     border-radius: 4px;
+    margin-right: 30px;
+    margin-left: auto;
 }
 
 button:hover {
