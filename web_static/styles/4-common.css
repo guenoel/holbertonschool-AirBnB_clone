@@ -8,12 +8,7 @@ body {
 
 .container {
     max-width: 1000px;
-    margin-top: 30px;
-    margin-bottom: 30px;
-    align-items: center; /* marche pas */
-    /*display: flex; /* inutile */
-    /*align-items: center; /* inutile */
-    /*justify-content: center; /* inutile */
+    margin: 30px auto 30px auto;
 }
 
 button {
