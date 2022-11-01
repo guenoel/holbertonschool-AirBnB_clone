@@ -84,9 +84,7 @@
 }
 
 .user {
-    height: 16px;
-    line-height: 16px;
-    margin: 0;
+    margin: 20px 0 5px 0;
 }
 
 .description {
