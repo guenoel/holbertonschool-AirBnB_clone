@@ -26,8 +26,6 @@
 }
 
 .places h2 {
-    /*display: flex;
-    align-content: flex-start;*/
     margin: 0 0 50px 0;
     flex-basis: 100%;
     font-size: 30px;
@@ -66,9 +64,6 @@
     width: 100px;
     background-position: 50% 5px;
     padding: 10px;
-    /*text-align: center;
-    vertical-align: bottom;
-    /*line-height: 80px;*/
 }
 
 .max_guest {
@@ -90,3 +85,5 @@
 .description {
     margin: 0;
 }
+
+/*pourquoi ca scroll pas jusqu'en bas de la page ?*/
