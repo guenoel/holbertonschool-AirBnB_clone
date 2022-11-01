@@ -38,6 +38,7 @@
     position: absolute;
     background: #FAFAFA;
     border: 1px solid #DDDDDD;
+    border-radius: 4px;
     top: 56px;
     list-style-type: none;
     width: 25%;
